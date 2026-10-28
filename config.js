@@ -1,0 +1,1 @@
+window.LUPUS_LINKS = {"publicUrl": "https://script.google.com/macros/s/AKfycbxXl_yMIALW6hVrvugzsaYG1LTC7WgGgjBEm3bXijsWTHttgetST0S-fR7k4U7kbiIqew/exec", "adminUrl": "https://script.google.com/macros/s/AKfycbwwL-77dM_PndKD48qvDbm98wOXxRQTTBQ3WET3N77jc-scPj7qZGLvJkuUReiknXkZMQ/exec"};
